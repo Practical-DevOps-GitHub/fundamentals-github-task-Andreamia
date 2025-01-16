@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /**
+
  * Flower bed is shaped like a circle.
  * Calculate its perimeter and area.
  * Input the radius from the console, and output obtained results.
